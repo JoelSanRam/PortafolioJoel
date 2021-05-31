@@ -8,22 +8,20 @@
 <img src="images/proyecto_ibridge.png?raw=true" target="_blank" href=""/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sofía Cona](http://sofiacona.com/)
+<img src="images/proyecto_sofia.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Numus Inmobiliaria](http://www.numusinmobiliaria.com/es)
+<img src="images/proyecto_numus.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Landing Pages or Informative sites
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Bercam](https://www.grupobercam.com/)
+- [Búho Solutions](https://www.buho-solutions.com)
+- [Manumental](http://monumentalwall.com/)
 
 ---
 
