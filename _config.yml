@@ -1,11 +1,11 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/khe.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a frontend developer passionate about graphical interface design, always wanting to improve myself and learn new things
   <br><br>
-  Second description 
+  I know and use HTML / CSS technologies, in addition to being in constant learning with the React.js and Vue.js framework
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/JoelSanRam?tab=repositories">View My Github Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
