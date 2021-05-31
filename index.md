@@ -21,7 +21,7 @@
 
 - [Bercam](https://www.grupobercam.com/)
 - [Búho Solutions](https://www.buho-solutions.com)
-- [Manumental](http://monumentalwall.com/)
+- [Monumental](http://monumentalwall.com/)
 
 ---
 
