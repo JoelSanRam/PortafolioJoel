@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Web Aplication
 
-[Project 1 Title](/sample_page)
+[Ibridge](http://ibridge.com.mx/es)
 <img src="images/proyecto_ibridge.png?raw=true" target="_blank" href=""/>
 
 ---
