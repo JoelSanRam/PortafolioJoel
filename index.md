@@ -2,7 +2,7 @@
 
 ---
 
-### Web Aplication
+### Web Aplication and personal projects
 
 [Ibridge](http://ibridge.com.mx/es)
 <img src="images/proyecto_ibridge.png?raw=true" target="_blank" href=""/>
@@ -16,6 +16,8 @@
 <img src="images/proyecto_numus.png?raw=true"/>
 
 ---
+[Personal project](https://joelsanram.github.io/DesarrolloMaquetacion/)
+<img src="images/personal.png?raw=true" target="_blank" href=""/>
 
 ### Landing Pages or Informative sites
 
